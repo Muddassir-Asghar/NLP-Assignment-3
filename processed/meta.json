@@ -1,0 +1,1 @@
+{"n_total": 30000, "n_train": 21000, "n_val": 4500, "n_test": 4500, "max_len": 128, "vocab_size": 36436}

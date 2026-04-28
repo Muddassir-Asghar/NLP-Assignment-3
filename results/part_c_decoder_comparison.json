@@ -1,0 +1,11 @@
+{
+  "full_system": {
+    "loss": 0.05450752546766665,
+    "perplexity": 1.0560204234313741
+  },
+  "baseline_no_retrieval": {
+    "loss": 0.05799993028901885,
+    "perplexity": 1.059714921836518
+  },
+  "perplexity_gap": 0.003694498405143909
+}

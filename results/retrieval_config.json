@@ -1,0 +1,15 @@
+{
+  "embedding_dim": 128,
+  "num_train_embeddings": 21000,
+  "num_test_embeddings": 4500,
+  "similarity_metric": "cosine",
+  "default_k": 5,
+  "k_values_tested": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "best_k_sentiment": 10,
+  "best_k_length": 10
+}
